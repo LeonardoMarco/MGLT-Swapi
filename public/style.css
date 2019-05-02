@@ -1,0 +1,37 @@
+body {
+    background: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+.app {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+img {
+    margin: 25px;
+}
+
+.card {
+    background: white;
+    padding: 2rem;
+    width: 40rem;
+    border-radius: 5px;
+}
+
+input {
+    width: 100%;
+    border-radius: 5px;
+    padding: 10px 0px 10px 5px;
+    border: solid 1px rgba(0, 0, 0, 0.5);
+}
+
+table {
+    width: 100%;
+    MARGIN-TOP: 15px;
+}
+
+th {
+    text-align: left
+}
